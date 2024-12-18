@@ -55,7 +55,7 @@
     "jspdf": "^2.5.1",
     "lowlight": "^2.9.0",
     "lucide-react": "^0.259.0",
-    "next": "13.4.9",
+    "next": "15.1.1",
     "next-themes": "^0.2.1",
     "postcss": "8.4.25",
     "prism-themes": "^1.9.0",
